@@ -136,7 +136,6 @@ MDK 11.02 (междисциплинарный курс) является час�
 ## 📞 Контакты
 **Автор:** 1angelina-bez4  
 **Email:** angelina_bezzrukovvva@bk.ru  
-**Telegram:** @ero0000ir  
 
 ---
 
@@ -263,4 +262,3 @@ Located in `/docs`.
 ## 📞 Contacts
 **Author:** 1angelina-bez4  
 **Email:** angelina_bezzrukovvva@bk.ru  
-**Telegram:** @ero0000ir  
